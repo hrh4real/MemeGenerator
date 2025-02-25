@@ -12,7 +12,7 @@ npm run dev
 
 if the code still doesn't run in ur local machine manually edit the package.json --> 
 "scripts": { 
-"dev": "vite", 
-"build": "vite build", 
-"preview": "vite preview"
+    "dev": "vite", 
+    "build": "vite build", 
+    "preview": "vite preview"
 }
